@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2b6de6e1-6949-4630-b520-51d0dc4b9138" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="main: schema" type="981a47c2:SqliteImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="ProjectId" id="1nJjSMGEwBtN7Yzax2fgsKqAkNN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="sqlite" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/templates/article" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+      </console-settings>
+    </option>
+    <option name="myShowVariablesByDefault" value="false" />
+    <option name="myIpythonEnabled" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\django_project\my_blog\templates\article" />
+      <recent name="E:\django_project\my_blog\templates\test_view" />
+      <recent name="E:\django_project\my_blog\test_view" />
+      <recent name="E:\django_project\my_blog" />
+      <recent name="E:\django_project\my_blog\comment" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\django_project\my_blog\article" />
+      <recent name="E:\django_project\my_blog\static\else" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="my_blog" type="Python.DjangoServer" factoryName="Django server">
+      <module name="my_blog" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="my_blog.settings" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2b6de6e1-6949-4630-b520-51d0dc4b9138" name="Default Changelist" comment="" />
+      <created>1611115087000</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611115087000</updated>
+      <workItem from="1611115113716" duration="15732000" />
+      <workItem from="1611167372607" duration="22175000" />
+      <workItem from="1611335141161" duration="30007000" />
+      <workItem from="1611559474760" duration="14461000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="404" y="222" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1611116270079">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="404" y="222" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1611116270079" />
+    <state x="835" y="198" width="956" height="714" key="DiffContextDialog" timestamp="1611517321498">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="835" y="198" width="956" height="714" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1611517321498" />
+    <state width="1095" height="230" key="GridCell.Tab.0.bottom" timestamp="1611602533743">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1095" height="230" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1611602533743" />
+    <state width="1095" height="230" key="GridCell.Tab.0.center" timestamp="1611602533743">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1095" height="230" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1611602533743" />
+    <state width="1095" height="230" key="GridCell.Tab.0.left" timestamp="1611602533743">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1095" height="230" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1611602533743" />
+    <state width="1095" height="230" key="GridCell.Tab.0.right" timestamp="1611602533743">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1095" height="230" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1611602533743" />
+    <state width="1095" height="284" key="GridCell.Tab.1.bottom" timestamp="1611496676615">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1095" height="284" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1611496676615" />
+    <state width="1095" height="284" key="GridCell.Tab.1.center" timestamp="1611496676615">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1095" height="284" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1611496676615" />
+    <state width="1095" height="284" key="GridCell.Tab.1.left" timestamp="1611496676614">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1095" height="284" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1611496676614" />
+    <state width="1095" height="284" key="GridCell.Tab.1.right" timestamp="1611496676615">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1095" height="284" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1611496676615" />
+    <state x="149" y="228" key="SettingsEditor" timestamp="1611498710207">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="149" y="228" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1611498710207" />
+    <state x="204" y="278" width="956" height="714" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1611518263216">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="204" y="278" width="956" height="714" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1611518263216" />
+    <state x="154" y="287" width="1247" height="714" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1611517140449">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="154" y="287" width="1247" height="714" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1611517140449" />
+    <state x="463" y="310" width="962" height="548" key="find.popup" timestamp="1611509003107">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="463" y="310" width="962" height="548" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1611509003107" />
+    <state x="457" y="286" key="search.everywhere.popup" timestamp="1611182965417">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="457" y="286" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1611182965417" />
+  </component>
+</project>

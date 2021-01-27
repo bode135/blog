@@ -1,0 +1,68 @@
+<!-- extends表明此页面继承自 base.html 文件 -->
+{% extends "base.html" %}
+{% load staticfiles %}
+
+
+
+<!-- 写入 base.html 中定义的 title -->
+{% block title %}
+    首页
+{% endblock title %}
+
+<!-- 写入 base.html 中定义的 content -->
+{% block content %}
+
+    <div class="container-fluid">
+      <h1>平板、桌面、大桌面显示器、超大桌面显示器</h1>
+      <p>以下实例在平板、桌面、大桌面显示器、超大桌面显示器的宽度比例为分别为：25%/75%、50%/50%、33.33%/66.67%、16.67/83.33%, 在移动手机等小型设备上会堆叠显示。</p>
+      <p>重置浏览器窗口大小，查看效果。</p>
+      <div class="container-fluid">
+        <div class="row">
+          <div class="col-sm-3 col-md-6 col-lg-4 col-xl-2 bg-success">
+            RUNOOB
+          </div>
+          <div class="col-sm-9 col-md-6 col-lg-8 col-xl-10 bg-warning">
+            菜鸟教程
+          </div>
+        </div>
+      </div>
+    </div>
+
+
+    <!-- 定义放置文章标题的div容器 -->
+    <div class="container">
+
+        <div class="row mt-2">
+
+            {% for author in authors %}
+            <!-- 文章内容 -->
+{#            <div class="col-sm-3 col-md-6 bg-success">#}
+{#            <div class="col-sm-9 col-md-6 bg-warning">#}
+{#            <div class="col-sm-3 col-md-6 col-lg-4 col-xl-4 mb-8">#}
+{#             <div class="col-sm-2 col-md-3 mb-4">#}
+              <div class="col-sm-8 col-md-6 mb-4"">
+{#            <div class="col-sm-9 col-md-6 col-lg-8 col-xl-10">#}
+            <!-- 卡片容器 -->
+                <div class="card h-100">
+
+                    <!-- 摘要 -->
+                    <div class="card-body">
+{#                        有摘要属性 abstract 就展示摘要, 没有就展示 body 的 前100个字符#}
+                        <p class="card-text">作者名: {{ author.name|slice:'30' }}</p>
+                        <p class="card-text">作者2: {{ author.name|slice:'30' }}</p>
+                    </div>
+
+
+                </div>
+            </div>
+            {% endfor %}
+
+        </div>
+
+
+
+
+
+    </div>
+
+{% endblock content %}
